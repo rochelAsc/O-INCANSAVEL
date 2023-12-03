@@ -43,7 +43,7 @@
         <agent img="Bone (2).png" x="300" y="75" width="65" height="65" />
     </page>
     <page background="bgmato.png">
-        <agent img="2 (1).png" x="0" y
+        <agent img="2 (1).png" x="0" y="65" width="120" height="90" />
 
 
     </page>
