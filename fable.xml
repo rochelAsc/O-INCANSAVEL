@@ -78,5 +78,6 @@
     </page>
     <page background="abandonauts_preview1.png">
         <agent text="Lugares desconhecidos!!!" font-size="16" x="160" y="390" color="white" on-touch="_NEXT_PAGE"/>
+        <agent img="Idle (1).png" x="100" y="440" width="63" height=""
     </page>
 </fable>
