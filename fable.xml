@@ -24,12 +24,11 @@
             <agent img="3.png" x="420" y="0" width="120" height="100" />
             <agent img="Idle (1).png" x="240" y="100" width="50" height="55" />
     </page>
-<page background="noite_dark.png">
-    
+    <page background="noite_dark.png">
+    <agent img="noi"
     <agent img="Tile (1).png" x="0" y="0" width="100" height="90">
-    <agent img="Tile (2).png" x="100" y="0" width="100" height="90">
 
 
 
-</page>
+    </page>
 </fable>
