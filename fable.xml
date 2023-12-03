@@ -35,7 +35,9 @@
         <agent img="DeadBush.png" x="95" y="89" width="80" height="60" />
         <agent img="DeadBush.png" x="75" y="89" width="90" height="70" />
         <agent img="DeadBush.png" x="65" y="89" width="60" height="50" />
-        <agent img="DeadBush.png" x="45" y="89" width="60" height="50" />
+        <agent img="DeadBush.png" x="450" y="89" width="60" height="50" />
+        <agent img="DeadBush.png" x="460" y="89" width="70" height="60" />
+        <agent img="DeadBush.png" x="435" y="89" width="50" height="55" />
 
 
 
