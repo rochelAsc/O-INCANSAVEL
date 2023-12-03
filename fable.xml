@@ -73,7 +73,7 @@
 
     </page>
     <page background="bulkhead-wallsx3.png">
-        <agent text="Até mesmo chegando em lugares inospit"
+        <agent text="Até mesmo por lugares " font-size="16" x="130" y="470" color="white" on-touch="_NEXT_PAGE"
 
 
     </page>
