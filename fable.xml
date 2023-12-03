@@ -30,6 +30,7 @@
         <agent img="Tile (2).png" x="210" y="0" width="110" height="90" />
         <agent img="Tile (2).png" x="110" y="0" width="110" height="90" />
         <agent img="Tile (1).png" x="-10" y="0" width="120" height="90" />
+        <agent img="Idle (1).png" x=""
 
 
 
