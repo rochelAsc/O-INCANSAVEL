@@ -48,6 +48,7 @@
         <agent img="2 (1).png" x="226" y="0" width="120" height="90" />
         <agent img="2 (1).png" x="346" y="0" width="120" height="90" />
         <agent img="2 (1).png" x="466" y="0" width="120" height="90" />
+        <agent img="Idle (1).png" x="265" y="89" width="51" height="56" />
 
     </page>
 </fable>
