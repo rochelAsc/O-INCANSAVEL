@@ -81,7 +81,7 @@
         <agent img="Idle (1).png" x="50" y="337" width="63" height="68" />
     </page>
     <page background="nestle_mockup.png">
-        <agent text="Ele estava inimaginavelmente SÓ..!" font-size="16" x="115" y="250" color="black" on-touch="_NEXT_PAGE" />
+        <agent text="Ele estava inimaginavelmente SÓ..!" font-size="21" x="70" y="250" color="black" on-touch="_NEXT_PAGE" />
         <agent img="Idle (1).png" x="10" y="410" width="63" height="68" />
         
     </page>
