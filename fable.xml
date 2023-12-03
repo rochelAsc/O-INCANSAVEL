@@ -23,6 +23,6 @@
             <agent img="2.png" x="300" y="0" width="120" height="100" />
             <agent img="3.png" x="420" y="0" width="120" height="100" />
             <agent img="Idle (1).png" x="240" y="100" width="50" height="55" />
-    
     </page>
+    <page background=
 </fable>
