@@ -58,6 +58,11 @@
         <agent img="Bush (1).png" x="330" y="88" width="65" height="35" />
         <agent img="Bush (1).png" x="360" y="88" width="75" height="45" />
         <agent img="Bush (1).png" x="390" y="88" width="85" height="45" />
+        <agent img="Bush (1).png" x="450" y="88" width="60" height="35" />
+
+    </page>
+    <page>
+
 
     </page>
 </fable>
