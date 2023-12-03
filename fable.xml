@@ -9,12 +9,11 @@
     <page background="noite.png">
     <agent text="Há um pequeno cavaleiro.." font-size="16" x="135" y="465" color="ghostwhite" />
             <agent img="noite.png" x="100" y="500" width="250" height="0" />
-            
-    <agent img="1.png" x="180" y="0" width="120" height="100" />
+            <agent img="17.png" x="0" y="0" width="200" height="90" />
+            <agent img="1.png" x="180" y="0" width="120" height="100" />
             <agent img="2.png" x="300" y="0" width="120" height="100" />
             <agent img="3.png" x="420" y="0" width="120" height="100" />
-            <agent img="17.png" x="0" y="0" width="200" height="90" />
-<agent img="Dead (10).png" x="240" y="100" width="45" height="50" />
+            <agent img="Dead (10).png" x="240" y="100" width="45" height="50" />
     
 
     </page>
