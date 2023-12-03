@@ -72,7 +72,7 @@
         <agent img="2 (1).png" x="346" y="0" width="120" height="90" />
 
     </page>
-    <page background=>
+    <page background="bulkhead-wallsx3.png">
 
 
     </page>
