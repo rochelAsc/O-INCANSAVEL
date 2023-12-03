@@ -80,4 +80,8 @@
         <agent text="Lugares desconhecidos!!!" font-size="16" x="160" y="390" color="white" on-touch="_NEXT_PAGE"/>
         <agent img="Idle (1).png" x="50" y="337" width="63" height="68"
     </page>
+    <page background="nestle_mockup.png">
+        <agent text="Até cenários estranhamente familiares"
+        
+    </page>
 </fable>
