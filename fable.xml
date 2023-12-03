@@ -25,7 +25,7 @@
             <agent img="Idle (1).png" x="240" y="100" width="50" height="55" />
     </page>
     <page background="noite_dark.png">
-        <agent text="Durante sua caminhada, o cavaleiro viu os rastros de morte..." font-size="16" x="20" y="450" color="darkturquoise" on-touch="_NEXT_PAGE" />
+        <agent text="Durante sua caminhada, o cavaleiro viu os rastros de morte..." font-size="16" x="20" y="450" color="darkred" on-touch="_NEXT_PAGE" />
         <agent img="Tile (3).png" x="410" y="0" width="110" height="90" />
         <agent img="Tile (2).png" x="310" y="0" width="110" height="90" />
         <agent img="Tile (2).png" x="210" y="0" width="110" height="90" />
