@@ -31,7 +31,8 @@
         <agent img="Tile (2).png" x="110" y="0" width="110" height="90" />
         <agent img="Tile (1).png" x="-10" y="0" width="120" height="90" />
         <agent img="Idle (1).png" x="255" y="89" width="51" height="56" />
-        <agent img="DeadBush.png" x="115" y="89" width="20" height"=20
+        <agent img="DeadBush.png" x="115" y="89" width="100" height="80" />
+        <agent img="DeadBush.png" x="95" y="89" width="80" height="70" />
 
 
 
