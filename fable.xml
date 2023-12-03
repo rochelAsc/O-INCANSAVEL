@@ -43,7 +43,7 @@
         <agent img="Bone (2).png" x="300" y="75" width="65" height="65" />
     </page>
     <page background="bgmato.png">
-        <agent text="E ao peregrinar por muito tempo.." font-size="16" x="120" y="450" color="black" on-touch="_NEXT_PAGE" />
+        <agent text="E ao peregrinar por muito tempo.." font-size="16" x="120" y="470" color="black" on-touch="_NEXT_PAGE" />
         <agent img="2 (1).png" x="-10" y="0" width="120" height="90" />
         <agent img="2 (1).png" x="106" y="0" width="120" height="90" />
         <agent img="2 (1).png" x="226" y="0" width="120" height="90" />
@@ -73,7 +73,8 @@
 
     </page>
     <page background="bulkhead-wallsx3.png">
-        <agent text="Até mesmo por lugares " font-size="16" x="130" y="470" color="white" on-touch="_NEXT_PAGE"
+        <agent text="Até mesmo por lugares assustadores" font-size="16" x="100" y="470" color="white" on-touch="_NEXT_PAGE" />
+        <agent img=
 
 
     </page>
