@@ -41,7 +41,8 @@
         <agent img="DeadBush.png" x="435" y="89" width="50" height="55" />
         <agent img="Bone (3).png" x="300" y="75" width="65" height="65" />
         <agent img="Bone (2).png" x="300" y="75" width="65" height="65" />
-
+    </page>
+    <page background="bgmato.png">
 
 
     </page>
