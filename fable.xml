@@ -63,7 +63,7 @@
 
     </page>
     <page background="parallax-forest-preview.png">
-        <agent text="Mas por MUITO tempo mesmo" font-size="16" x="2"
+        <agent text="Mas por MUITO tempo mesmo" font-size="16" x="80" y="450" color="ghostwhite" on-touch="_NEXT_PAGE"/>
         <agent img="Idle (1).png" x="285" y="86" width="56" height="61"/>
         <agent img="2 (1).png" x="466" y="0" width="120" height="90" />
         <agent img="2 (1).png" x="-10" y="0" width="120" height="90" />
