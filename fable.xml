@@ -91,6 +91,8 @@
     </page>
     <page background="Screenshot_1.png">
         <agent text="Ele chega num lugar familiar.." font-size="16" x="20" y="470" color="white" on-touch="_NEXT_PAGE"/>
+        <agent text="Ele finalmente se dá conta" font-size="16" x="20" y="440" color="white" on-touch="_NEXT_PAGE"/>
+        <agent text="De que realmente nunca houve ninguem" font-size="16" x="20" y="440" color="white" on-touch="_NEXT_PAGE"/>
 
 
         
