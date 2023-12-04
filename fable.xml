@@ -94,9 +94,9 @@
         <agent text="Ele finalmente se dá conta.." font-size="16" x="20" y="440" color="white" on-touch="_NEXT_PAGE"/>
         <agent text="De que realmente nunca houve ninguem.." font-size="16" x="20" y="410" color="white" on-touch="_NEXT_PAGE"/>
         <agent text="E sabe bem o que tem em seguida..." font-size="16" x="20" y="380" color="white" on-touch="_NEXT_PAGE"/>
-        <agent img="Idle (1).png" x="39" y="161" width="65" height="70" />
-
-
-        
+        <agent img="Idle (1).png" x="39" y="161" width="65" height="70" />    
+    </page>
+    <page background="Screenshot_2.png">
+        <agent text="No fim, ele lembra de seu proprio nome." font-size="16"
     </page>
 </fable>
