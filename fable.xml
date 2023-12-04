@@ -97,6 +97,12 @@
         <agent img="Idle (1).png" x="39" y="161" width="65" height="70" />    
     </page>
     <page background="Screenshot_2.png">
-        <agent text="No fim, ele lembra de seu proprio nome." font-size="16"
+        <agent text="No fim, ele lembra de seu proprio nome." font-size="16" x="20" y="470" color="goldenrod" on-touch="_GOTO_PAGE:1" />
+
+
+
+
+
+        <agent img="Idle (1).png" x=
     </page>
 </fable>
