@@ -105,7 +105,7 @@
 
     <page background="Screenshot_2.png">
         <agent text="Seu nome é" font-size="16" x="20" y="470" color="goldenrod"/>
-        <agent text="Sísifo" font-size="20" x="250" y="250" color="crimson"  on-touch="_GOTO_PAGE:1" />
+        <agent text="Sísifo" font-size="20" x="280" y="250" color="crimson"  on-touch="_GOTO_PAGE:1" />
         
     </page>
 </fable>
