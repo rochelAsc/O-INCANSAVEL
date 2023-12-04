@@ -101,11 +101,10 @@
         <agent text="E do seu próprio nome." font-size="16" x="20" y="440" color="goldenrod"  on-touch="_NEXT_PAGE" />
         <agent img="Idle (1).png" x="20" y="263" width="65" height="70" />
     </page>
-
-
     <page background="Screenshot_2.png">
-        <agent text="Seu nome?" font-size="23" x="75" y="400" color="goldenrod"/>
+        <agent text="Seu nome?" font-size="23" x="75" y="400" color="darkred"/>
         <agent text="Sísifo..." font-size="36" x="290" y="250" color="darkred"  on-touch="_GOTO_PAGE:1" />
+        <agent img="Idle (1).png" x="20" y="263" width="65" height="70" />
         
     </page>
 </fable>
