@@ -103,6 +103,6 @@
 
 
 
-        <agent img="Idle (1).png" x=
+        <agent img="Idle (1).png" x="20" y="430" width="65"
     </page>
 </fable>
