@@ -104,7 +104,7 @@
 
 
     <page background="Screenshot_2.png">
-        <agent text="Tocando " font-size="16" x="20" y="470" color="goldenrod"  on-touch="_NEXT_PAGE" />
+        <agent text="Ao tocar na pedra" font-size="16" x="20" y="470" color="goldenrod"  on-touch="_NEXT_PAGE" />
         
     </page>
 </fable>
