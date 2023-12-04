@@ -83,6 +83,9 @@
     <page background="nestle_mockup.png">
         <agent text="Ele estava inimaginavelmente SÓ..!" font-size="21" x="70" y="250" color="black" on-touch="_NEXT_PAGE" />
         <agent img="Idle (1).png" x="10" y="410" width="63" height="68" />
-        
+    </page>
+    <page background="plastic_shamtastic_mockup.png">
+
+
     </page>
 </fable>
