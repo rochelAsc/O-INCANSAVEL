@@ -97,14 +97,14 @@
         <agent img="Idle (1).png" x="39" y="161" width="65" height="70" />    
     </page>
     <page background="Screenshot_2.png">
-        <agent text="No fim, ele lembra de seu proprio nome." font-size="16" x="20" y="470" color="goldenrod" on-touch="_NEXT_PAGE" />
-        <agent text="E tambem do seu terrível fardo." font-size="16" x="20" y="440" color="goldenrod"  on-touch="_NEXT_PAGE" />
+        <agent text="No fim, lembra do seu terrivel fardo." font-size="16" x="20" y="470" color="goldenrod" on-touch="_NEXT_PAGE" />
+        <agent text="E do seu próprio nome." font-size="16" x="20" y="440" color="goldenrod"  on-touch="_NEXT_PAGE" />
         <agent img="Idle (1).png" x="20" y="263" width="65" height="70" />
     </page>
 
 
     <page background="Screenshot_2.png">
-        <agent text="Ao tocar na pedra" font-size="16" x="20" y="470" color="goldenrod"  on-touch="_NEXT_PAGE" />
+        <agent text="Seu nome é" font-size="16" x="20" y="470" color="goldenrod"  on-touch="_NEXT_PAGE" />
         
     </page>
 </fable>
