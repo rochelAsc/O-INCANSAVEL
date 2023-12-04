@@ -98,11 +98,10 @@
     </page>
     <page background="Screenshot_2.png">
         <agent text="No fim, ele lembra de seu proprio nome." font-size="16" x="20" y="470" color="goldenrod" on-touch="_GOTO_PAGE:1" />
+        <agent text="E tambem do seu terrível fardo." font-size="16" x="20" y="440" color="goldenrod" on-touch="_GOTO_PAGE:1" />
 
 
 
-
-
-        <agent img="Idle (1).png" x="20" y="430" width="65"
+        <agent img="Idle (1).png" x="20" y="250" width="65" height="70" />
     </page>
 </fable>
