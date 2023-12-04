@@ -85,7 +85,7 @@
         <agent img="Idle (1).png" x="10" y="410" width="63" height="68" />
     </page>
     <page background="plastic_shamtastic_mockup.png">
-        <agent text="Sem perceber onde estava" font-size
+        <agent text="Sem perceber onde estava" font-size="16" x="500" y="470" color="black" on-touch="_NEXT_PAGE" />
 
 
     </page>
