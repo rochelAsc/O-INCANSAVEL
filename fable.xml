@@ -104,8 +104,8 @@
 
 
     <page background="Screenshot_2.png">
-        <agent text="Seu nome?" font-size="22" x="50" y="470" color="goldenrod"/>
-        <agent text="Sísifo" font-size="32" x="300" y="250" color="indianred"  on-touch="_GOTO_PAGE:1" />
+        <agent text="Seu nome?" font-size="23" x="75" y="400" color="goldenrod"/>
+        <agent text="Sísifo..." font-size="36" x="290" y="250" color="darkred"  on-touch="_GOTO_PAGE:1" />
         
     </page>
 </fable>
